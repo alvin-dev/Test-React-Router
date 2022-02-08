@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.content{
+  max-width: 400px;
+  font-size: 1.3rem;
+  margin: auto;
+  margin-bottom: 15px;
+}
+.content p{
+  padding: 2rem 1rem;
+}
