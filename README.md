@@ -4,6 +4,12 @@
 
 ## Available Scripts
 
+Installing Dependencies:
+
+~~~
+yarn install
+~~~
+
 In the project directory, you can run:
 
 ~~~
